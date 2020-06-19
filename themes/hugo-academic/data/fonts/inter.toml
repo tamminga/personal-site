@@ -1,0 +1,11 @@
+# Font style metadata
+name = "inter"
+
+# Optional Google font URL
+google_fonts = "Inter:wght@400;600"
+
+# Font families
+heading_font = "Inter"
+body_font = "Inter"
+nav_font = "Inter"
+mono_font = "Inter"

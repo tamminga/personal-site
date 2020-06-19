@@ -1,0 +1,24 @@
+# Theme metadata
+name = "grey"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#c44a53"
+
+# Links
+link = "#c44a53"
+link_hover = "#ff3863"
+
+# Backgrounds
+background = "#fff" # this will become publication page background
+home_section_odd = "#fff"
+home_section_even = "#d8dbe2"
+
+# Menu
+menu_primary ="#403e43"
+menu_text = "#fdfbfb"
+menu_text_active = "#ff3852"
+menu_title = "#fdfbfb"
+

@@ -1,0 +1,11 @@
+# Font style metadata
+name = "manrope"
+
+# Optional Google font URL
+google_fonts = "Manrope:wght@400;600"
+
+# Font families
+heading_font = "Manrope"
+body_font = "Manrope"
+nav_font = "Manrope"
+mono_font = "Manrope"
