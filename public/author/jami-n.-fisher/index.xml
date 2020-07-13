@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jami N. Fisher | Meredith Tamminga</title>
+    <link>/author/jami-n.-fisher/</link>
+      <atom:link href="/author/jami-n.-fisher/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jami N. Fisher</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Meredith Tamminga</copyright><lastBuildDate>Fri, 25 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huefefce7ed4bb5f0d5ccb2f3862baa47a_288778_512x512_fill_lanczos_center_2.png</url>
+      <title>Jami N. Fisher</title>
+      <link>/author/jami-n.-fisher/</link>
+    </image>
+    
+    <item>
+      <title>The historical and social context of the Philadelphia ASL community</title>
+      <link>/publication/fisher-2018/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/fisher-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining variation in the absence of a &#39;main&#39; ASL corpus: The case of the Philadelphia Signs Project</title>
+      <link>/publication/fisher-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/fisher-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Embick | Meredith Tamminga</title>
+    <link>/author/david-embick/</link>
+      <atom:link href="/author/david-embick/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Embick</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Meredith Tamminga</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huefefce7ed4bb5f0d5ccb2f3862baa47a_288778_512x512_fill_lanczos_center_2.png</url>
+      <title>David Embick</title>
+      <link>/author/david-embick/</link>
+    </image>
+    
+    <item>
+      <title>Opacity, transparency, and morphological priming: A study of prefixed verbs in Dutch</title>
+      <link>/publication/creemers-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/creemers-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heritage languages and variation: Identifying shared factors</title>
+      <link>/publication/embick-2019/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/embick-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dynamics of variation in individuals</title>
+      <link>/publication/tamminga-2016-c/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tamminga-2016-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

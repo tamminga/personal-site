@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Georgia Zellou | Meredith Tamminga</title>
+    <link>/author/georgia-zellou/</link>
+      <atom:link href="/author/georgia-zellou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Georgia Zellou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Meredith Tamminga</copyright><lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huefefce7ed4bb5f0d5ccb2f3862baa47a_288778_512x512_fill_lanczos_center_2.png</url>
+      <title>Georgia Zellou</title>
+      <link>/author/georgia-zellou/</link>
+    </image>
+    
+    <item>
+      <title>Cross-dialectal differences in nasal coarticulation in American English</title>
+      <link>/publication/tamminga-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/tamminga-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nasal coarticulation changes over time in Philadelphia English</title>
+      <link>/publication/zellou-2014/</link>
+      <pubDate>Tue, 07 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/zellou-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
