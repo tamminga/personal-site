@@ -1,7 +1,7 @@
 ---
 title: "The reliability of individual differences in VOT imitation"
 
-date: 2020-08-08
+date: 2021-08-08
 
 authors: ["Lacey Wade", "Wei Lai", "Meredith Tamminga"]
 publication_types: ["2"]
@@ -10,6 +10,6 @@ featured: false
 publication: "*Language and Speech*"
 doi: "10.1177/0023830920947769"
 
-url_pdf: "pdf/2020_WadeLaiTamminga.pdf"
+url_pdf: "pdf/2021_WadeLaiTamminga.pdf"
 ---
 
