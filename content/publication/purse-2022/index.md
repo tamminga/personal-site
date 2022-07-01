@@ -1,7 +1,7 @@
 ---
 title: "Phonological variation and lexical form"
 
-date: 2022-1-7
+date: 2022-01-07
 
 authors: ["Ruaridh Purse", "Meredith Tamminga", "Yosiane White"]
 publication_types: ["6"]

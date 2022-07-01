@@ -1,6 +1,6 @@
 ---
 title: "Individual differences in simultaneous perceptual compensation for coarticulatory and lexical cues"
-date: 2022-5-5
+date: 2022-05-05
 
 authors: ["Wei Lai", "Lacey Wade", "Meredith Tamminga"]
 publication_types: ["2"]
