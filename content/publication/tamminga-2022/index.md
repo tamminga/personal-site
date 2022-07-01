@@ -1,7 +1,7 @@
 ---
 title: "Coherence across social and temporal scales"
 
-date: 2022-3-11
+date: 2021-10-01
 
 authors: ["Meredith Tamminga", "Lacey Wade"]
 publication_types: ["6"]
