@@ -1,7 +1,8 @@
 ---
 title: "Experimental priming of phonological variant identification"
 
-date: 2026-3-24
+publication_date: "2026-03-24"
+date: 2026-03-24
 
 authors: ["Aini Li", "Meredith Tamminga"]
 publication_types: ["2"]
