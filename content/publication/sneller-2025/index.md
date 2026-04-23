@@ -3,7 +3,7 @@ title: "Bill Labov: Looking back, looking forward"
 
 date: 2025-08-04
 
-authors: ["Betsy Sneller", Laurel MacKenzie", "Meredith Tamminga"]
+authors: ["Betsy Sneller", "Laurel MacKenzie", "Meredith Tamminga"]
 publication_types: ["2"]
 
 abstract: ""
