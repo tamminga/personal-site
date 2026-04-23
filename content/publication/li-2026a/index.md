@@ -1,7 +1,8 @@
 ---
 title: "Validating explicit rating tasks for measuring pronunciation biases: A case study of ING variation"
 
-date: "2026-2-17"
+publication_date: "2026-02-17"
+date: 2026-02-17
 
 authors: ["Aini Li", "Meredith Tamminga"]
 publication_types: ["2"]
