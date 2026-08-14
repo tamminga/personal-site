@@ -31,3 +31,4 @@ user_groups:
 
 I am an Associate Professor of [Linguistics](https://www.ling.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/), where I direct the [Language Variation and Cognition Lab](https://tammingalab.github.io/). I am a lead researcher on the [Philadelphia Signs Project](https://pennds.org/phillysigns/) and an Associate Editor at [Glossa Psycholinguistics](https://escholarship.org/uc/glossapsycholinguistics). I'm also affiliated with three initiatives at [MindCORE](https://mindcore.sas.upenn.edu/), Penn's hub for the integrative study of the mind: the [Social and Behavioral Sciences Initiative](https://web.sas.upenn.edu/penn-sbsi/), the [Social and Cultural Evolution Working Group](https://web.sas.upenn.edu/scew/), and [Integrated Language Sciences and Technology](https://web.sas.upenn.edu/langscience/). 
 
+**My lab is currently at full capacity. I do not intend to take on a new PhD advisee from the Fall 2027 cohort.**
